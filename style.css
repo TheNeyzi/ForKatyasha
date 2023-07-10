@@ -9,10 +9,9 @@ body {
 
 main {
     width: 100vw;
-    height: 105vh;
+    height: 130vh;
     background: #E04E4E;
     font-size: 21px;
-    border: solid 1px red;
 }
 
 .center {
@@ -30,7 +29,6 @@ nav ul {
     padding-left: 25px;
     translate: 0px -120px;
     align-items: center;
-    border: solid 1px red;
 }
 
 .img {
@@ -88,7 +86,6 @@ h2 {
 .eye-right {
     display: flex;
     font-family: 'Anonymous Pro', monospace;
-    border: 1px solid red;
     width: 150px;
     font-size: 21px;
     translate: 220px 60px;
