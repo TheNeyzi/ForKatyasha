@@ -8,11 +8,10 @@ body {
 }
 
 main {
-    width: 99vw;
+    max-width: 99vw;
     height: 870px;
     background: #E04E4E;
     font-size: 21px;
-    border: solid 1px red;
 }
 
 .center {
@@ -30,7 +29,6 @@ nav ul {
     padding-left: 25px;
     translate: 0px -120px;
     align-items: center;
-    border: solid 1px red;
 }
 
 .img {
@@ -89,7 +87,6 @@ h2 {
 .eye-right {
     display: flex;
     font-family: 'Anonymous Pro', monospace;
-    border: 1px solid red;
     width: 150px;
     font-size: 21px;
     translate: 220px 60px;
@@ -140,11 +137,10 @@ footer {
     display: flex;
     justify-content: center;
     background-color: #353535;
-    width: 100vw;
+    width: 99.9vw;
     height: 170px;
     border-top-right-radius: 16px;
     border-top-left-radius: 16px;
-    border: solid 1px red;
 }
 
 .instagram {
