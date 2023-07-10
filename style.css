@@ -8,10 +8,11 @@ body {
 }
 
 main {
-    width: 90vw;
-    height: 130vh;
+    width: 99vw;
+    height: 870px;
     background: #E04E4E;
     font-size: 21px;
+    border: solid 1px red;
 }
 
 .center {
@@ -29,10 +30,12 @@ nav ul {
     padding-left: 25px;
     translate: 0px -120px;
     align-items: center;
+    border: solid 1px red;
 }
 
 .img {
     z-index: 1;
+    width: 100vw;
 }
 
 nav ul li a {
@@ -49,7 +52,7 @@ nav ul h2 a {
 }
 
 h2 {
-    width: 140px;
+    width: 160px;
 }
 
 .main-content h1 {
@@ -86,6 +89,7 @@ h2 {
 .eye-right {
     display: flex;
     font-family: 'Anonymous Pro', monospace;
+    border: 1px solid red;
     width: 150px;
     font-size: 21px;
     translate: 220px 60px;
