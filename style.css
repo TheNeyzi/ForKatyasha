@@ -147,6 +147,10 @@ footer {
     translate: 175px 10px;
 }
 
+.link {
+    color: #FFFFFF;
+}
+
 .insta {
     display: flex;
     height: 20px;
